@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi! I'm Aditia Adrian, a 6th-semester student currently studying at Nahdlatul Ulama University of Indonesia (UNUSIA). I have a strong interest in technology, especially in software development and modern computing environments.<br><br>I enjoy exploring new tools, customizing my system, and continuously improving my skills through hands-on projects. I'm always open to learning new things and collaborating with others.<br><br>Feel free to explore my repositories and connect with me!</p>
+<p align="left">Hi! I'm Aditia Adrian, a 6th-semester student currently studying at Nahdlatul Ulama University of Indonesia (UNUSIA). I have a strong interest in technology, especially in software development and problem solving. In my free time, I love exploring various programming languages and technologies to improve my development skills.</p>
 
 ###
 
@@ -21,6 +21,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -36,7 +38,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=70">
 </div>
 
 ###
